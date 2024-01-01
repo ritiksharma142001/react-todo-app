@@ -75,7 +75,7 @@ export default function TodoList() {
           </li>
         ))}
       </ul>
-      <button onClick={markAllAsDone}>Mark All As Done</button>
+      <button onClick={markAllAsDone}>Mark All</button>
     </div>
   );
 }
